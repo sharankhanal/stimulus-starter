@@ -16,7 +16,6 @@ $ cd stimulus-starter
 $ yarn install
 $ yarn start
 ```
-
 ---
 
 © 2021 Basecamp, LLC.
